@@ -1,16 +1,25 @@
-# mirror_wall
+<h1>PR. 2 Mirror Wall</h1>
 
-A new Flutter project.
+## Packages Used :-
+-   **cupertino_icons**: ^1.0.6
+-   **flutter_inappwebview**: ^6.0.0
+-   **provider**: ^6.1.2
+-   **connectivity_plus**: ^6.0.3
 
-## Getting Started
+## Feature
+- **Web Browsing**
+- **BookMarks**
+- **Backward/Forward**
+- **PullToDownRefresh**
+- **Refresh**
 
-This project is a starting point for a Flutter application.
+<div align="center">
+   <img src="" width=22% height=33%>
+  <img src="" width=22% height=33%>
+  <img src="" width=22% height=33%>
+  <img src="" width=22% height=33%>
+   <img src="" width=22% height=33%>
+  <img src="" width=22% height=33%>
+  <video src = ''>
+ </div>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
